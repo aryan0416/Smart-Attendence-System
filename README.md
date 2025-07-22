@@ -31,7 +31,7 @@ Smart Attendance System/
 ## 🛠️ Installation
 
 1. Clone this repository:
-git clone https://github.com/aryan0416/Smart-Attendence-System/edit/main/README.md
+git clone https://github.com/aryan0416/Smart-Attendence-System/
 cd smart-attendance-system
 
 
